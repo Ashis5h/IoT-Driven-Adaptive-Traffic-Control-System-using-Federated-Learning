@@ -1,0 +1,273 @@
+2025-03-02 00:00:39,701 - root - INFO - Starting Federated Learning Server...
+2025-03-02 00:00:39,725 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.130.152:5000
+2025-03-02 00:00:39,725 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 00:00:39,743 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 00:00:40,123 - root - INFO - Starting Federated Learning Server...
+2025-03-02 00:00:40,132 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 00:00:40,136 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:51:47,204 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:51:47,226 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.130.152:5000
+2025-03-02 09:51:47,226 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 09:51:47,242 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 09:51:47,664 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:51:47,673 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 09:51:47,677 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:52:29,352 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\venv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2025-03-02 09:52:29,377 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-03-02 09:52:29,455 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 09:52:29,934 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:52:29,944 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 09:52:29,949 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:53:54,477 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:53:54,495 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.130.152:5000
+2025-03-02 09:53:54,495 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 09:53:54,504 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 09:53:54,838 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:53:54,847 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 09:53:54,851 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:55:05,391 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:55:05,408 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.130.152:5000
+2025-03-02 09:55:05,408 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 09:55:05,418 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 09:55:05,740 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:55:05,748 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 09:55:05,751 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:55:09,423 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\venv\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-03-02 09:55:09,439 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-03-02 09:55:09,459 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\venv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-03-02 09:55:09,872 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 09:55:10,210 - root - INFO - Starting Federated Learning Server...
+2025-03-02 09:55:10,218 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 09:55:10,222 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 09:55:53,532 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:55:53] "GET / HTTP/1.1" 200 -
+2025-03-02 09:55:53,819 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:55:53] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 09:55:53,831 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:55:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-02 09:56:09,252 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:56:09] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 09:56:10,687 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:56:10] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 09:58:37,354 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:58:37] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 09:58:38,556 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 09:58:38] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 10:00:53,821 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:00:53] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 10:05:54,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:05:54] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 10:10:54,019 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:10:54] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 10:13:05,679 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:13:05,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:13:05,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:13:05,681 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:13:05,911 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 10:13:06,333 - root - INFO - Starting Federated Learning Server...
+2025-03-02 10:13:06,342 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 10:13:06,346 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 10:15:54,023 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:15:54] "GET /dashboard_data HTTP/1.1" 200 -
+2025-03-02 10:17:33,741 - root - INFO - Starting Federated Learning Server...
+2025-03-02 10:17:33,757 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.130.152:5000
+2025-03-02 10:17:33,757 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 10:17:33,767 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-02 10:17:34,107 - root - INFO - Starting Federated Learning Server...
+2025-03-02 10:17:34,115 - werkzeug - WARNING -  * Debugger is active!
+2025-03-02 10:17:34,119 - werkzeug - INFO -  * Debugger PIN: 360-534-183
+2025-03-02 10:17:45,066 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:17:45] "GET / HTTP/1.1" 200 -
+2025-03-02 10:17:45,483 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:17:45] "GET /dashboard_data?t=1740890865477 HTTP/1.1" 200 -
+2025-03-02 10:17:45,485 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:17:45] "GET /traffic_stats?t=1740890865477 HTTP/1.1" 200 -
+2025-03-02 10:17:55,482 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:17:55] "GET /dashboard_data?t=1740890875477 HTTP/1.1" 200 -
+2025-03-02 10:17:55,483 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:17:55] "GET /traffic_stats?t=1740890875477 HTTP/1.1" 200 -
+2025-03-02 10:18:05,491 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:05] "GET /dashboard_data?t=1740890885488 HTTP/1.1" 200 -
+2025-03-02 10:18:05,492 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:05] "GET /traffic_stats?t=1740890885488 HTTP/1.1" 200 -
+2025-03-02 10:18:13,776 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:13] "GET /dashboard_data?t=1740890893773 HTTP/1.1" 200 -
+2025-03-02 10:18:13,777 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:13] "GET /traffic_stats?t=1740890893773 HTTP/1.1" 200 -
+2025-03-02 10:18:15,481 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:15] "GET /dashboard_data?t=1740890895478 HTTP/1.1" 200 -
+2025-03-02 10:18:15,482 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:15] "GET /traffic_stats?t=1740890895478 HTTP/1.1" 200 -
+2025-03-02 10:18:16,866 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:16] "GET /dashboard_data?t=1740890896862 HTTP/1.1" 200 -
+2025-03-02 10:18:16,867 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:16] "GET /traffic_stats?t=1740890896862 HTTP/1.1" 200 -
+2025-03-02 10:18:25,480 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:25] "GET /dashboard_data?t=1740890905477 HTTP/1.1" 200 -
+2025-03-02 10:18:25,481 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:25] "GET /traffic_stats?t=1740890905477 HTTP/1.1" 200 -
+2025-03-02 10:18:35,494 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:35] "GET /dashboard_data?t=1740890915490 HTTP/1.1" 200 -
+2025-03-02 10:18:35,495 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:35] "GET /traffic_stats?t=1740890915490 HTTP/1.1" 200 -
+2025-03-02 10:18:45,493 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:45] "GET /dashboard_data?t=1740890925489 HTTP/1.1" 200 -
+2025-03-02 10:18:45,494 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:45] "GET /traffic_stats?t=1740890925489 HTTP/1.1" 200 -
+2025-03-02 10:18:56,024 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:56] "GET /dashboard_data?t=1740890936020 HTTP/1.1" 200 -
+2025-03-02 10:18:56,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:18:56] "GET /traffic_stats?t=1740890936020 HTTP/1.1" 200 -
+2025-03-02 10:19:06,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:06] "GET /dashboard_data?t=1740890946021 HTTP/1.1" 200 -
+2025-03-02 10:19:06,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:06] "GET /traffic_stats?t=1740890946021 HTTP/1.1" 200 -
+2025-03-02 10:19:16,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:16] "GET /dashboard_data?t=1740890956021 HTTP/1.1" 200 -
+2025-03-02 10:19:16,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:16] "GET /traffic_stats?t=1740890956021 HTTP/1.1" 200 -
+2025-03-02 10:19:26,019 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:26] "GET /dashboard_data?t=1740890966016 HTTP/1.1" 200 -
+2025-03-02 10:19:26,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:26] "GET /traffic_stats?t=1740890966016 HTTP/1.1" 200 -
+2025-03-02 10:19:35,496 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:35] "GET /dashboard_data?t=1740890975492 HTTP/1.1" 200 -
+2025-03-02 10:19:35,498 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:35] "GET /traffic_stats?t=1740890975492 HTTP/1.1" 200 -
+2025-03-02 10:19:35,547 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:35] "GET /dashboard_data?t=1740890975542 HTTP/1.1" 200 -
+2025-03-02 10:19:35,548 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:35] "GET /traffic_stats?t=1740890975543 HTTP/1.1" 200 -
+2025-03-02 10:19:38,075 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:38] "GET /dashboard_data?t=1740890978071 HTTP/1.1" 200 -
+2025-03-02 10:19:38,076 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:38] "GET /traffic_stats?t=1740890978072 HTTP/1.1" 200 -
+2025-03-02 10:19:39,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:39] "GET /dashboard_data?t=1740890979023 HTTP/1.1" 200 -
+2025-03-02 10:19:39,028 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:39] "GET /traffic_stats?t=1740890979023 HTTP/1.1" 200 -
+2025-03-02 10:19:39,833 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:39] "GET /dashboard_data?t=1740890979830 HTTP/1.1" 200 -
+2025-03-02 10:19:39,835 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:39] "GET /traffic_stats?t=1740890979830 HTTP/1.1" 200 -
+2025-03-02 10:19:40,269 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /dashboard_data?t=1740890980264 HTTP/1.1" 200 -
+2025-03-02 10:19:40,270 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /traffic_stats?t=1740890980264 HTTP/1.1" 200 -
+2025-03-02 10:19:40,441 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /dashboard_data?t=1740890980436 HTTP/1.1" 200 -
+2025-03-02 10:19:40,442 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /traffic_stats?t=1740890980436 HTTP/1.1" 200 -
+2025-03-02 10:19:40,610 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /dashboard_data?t=1740890980606 HTTP/1.1" 200 -
+2025-03-02 10:19:40,611 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /traffic_stats?t=1740890980606 HTTP/1.1" 200 -
+2025-03-02 10:19:40,780 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /dashboard_data?t=1740890980777 HTTP/1.1" 200 -
+2025-03-02 10:19:40,782 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /traffic_stats?t=1740890980777 HTTP/1.1" 200 -
+2025-03-02 10:19:40,945 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /dashboard_data?t=1740890980941 HTTP/1.1" 200 -
+2025-03-02 10:19:40,946 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:40] "GET /traffic_stats?t=1740890980941 HTTP/1.1" 200 -
+2025-03-02 10:19:41,116 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981112 HTTP/1.1" 200 -
+2025-03-02 10:19:41,117 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981112 HTTP/1.1" 200 -
+2025-03-02 10:19:41,265 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981261 HTTP/1.1" 200 -
+2025-03-02 10:19:41,267 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981261 HTTP/1.1" 200 -
+2025-03-02 10:19:41,438 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981433 HTTP/1.1" 200 -
+2025-03-02 10:19:41,439 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981433 HTTP/1.1" 200 -
+2025-03-02 10:19:41,586 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981583 HTTP/1.1" 200 -
+2025-03-02 10:19:41,588 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981583 HTTP/1.1" 200 -
+2025-03-02 10:19:41,758 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981753 HTTP/1.1" 200 -
+2025-03-02 10:19:41,759 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981753 HTTP/1.1" 200 -
+2025-03-02 10:19:41,922 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /dashboard_data?t=1740890981917 HTTP/1.1" 200 -
+2025-03-02 10:19:41,923 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:41] "GET /traffic_stats?t=1740890981918 HTTP/1.1" 200 -
+2025-03-02 10:19:42,106 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982102 HTTP/1.1" 200 -
+2025-03-02 10:19:42,107 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982102 HTTP/1.1" 200 -
+2025-03-02 10:19:42,278 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982273 HTTP/1.1" 200 -
+2025-03-02 10:19:42,279 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982274 HTTP/1.1" 200 -
+2025-03-02 10:19:42,464 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982459 HTTP/1.1" 200 -
+2025-03-02 10:19:42,466 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982459 HTTP/1.1" 200 -
+2025-03-02 10:19:42,618 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982615 HTTP/1.1" 200 -
+2025-03-02 10:19:42,620 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982615 HTTP/1.1" 200 -
+2025-03-02 10:19:42,805 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982801 HTTP/1.1" 200 -
+2025-03-02 10:19:42,806 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982801 HTTP/1.1" 200 -
+2025-03-02 10:19:42,968 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /dashboard_data?t=1740890982964 HTTP/1.1" 200 -
+2025-03-02 10:19:42,970 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:42] "GET /traffic_stats?t=1740890982965 HTTP/1.1" 200 -
+2025-03-02 10:19:43,140 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /dashboard_data?t=1740890983136 HTTP/1.1" 200 -
+2025-03-02 10:19:43,141 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /traffic_stats?t=1740890983136 HTTP/1.1" 200 -
+2025-03-02 10:19:43,317 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /dashboard_data?t=1740890983314 HTTP/1.1" 200 -
+2025-03-02 10:19:43,319 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /traffic_stats?t=1740890983314 HTTP/1.1" 200 -
+2025-03-02 10:19:43,475 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /dashboard_data?t=1740890983472 HTTP/1.1" 200 -
+2025-03-02 10:19:43,476 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /traffic_stats?t=1740890983472 HTTP/1.1" 200 -
+2025-03-02 10:19:43,666 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /dashboard_data?t=1740890983663 HTTP/1.1" 200 -
+2025-03-02 10:19:43,668 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /traffic_stats?t=1740890983663 HTTP/1.1" 200 -
+2025-03-02 10:19:43,839 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /dashboard_data?t=1740890983834 HTTP/1.1" 200 -
+2025-03-02 10:19:43,840 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:43] "GET /traffic_stats?t=1740890983834 HTTP/1.1" 200 -
+2025-03-02 10:19:44,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /dashboard_data?t=1740890984019 HTTP/1.1" 200 -
+2025-03-02 10:19:44,023 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /traffic_stats?t=1740890984019 HTTP/1.1" 200 -
+2025-03-02 10:19:44,195 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /dashboard_data?t=1740890984190 HTTP/1.1" 200 -
+2025-03-02 10:19:44,196 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /traffic_stats?t=1740890984190 HTTP/1.1" 200 -
+2025-03-02 10:19:44,365 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /dashboard_data?t=1740890984362 HTTP/1.1" 200 -
+2025-03-02 10:19:44,366 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /traffic_stats?t=1740890984362 HTTP/1.1" 200 -
+2025-03-02 10:19:44,537 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /dashboard_data?t=1740890984532 HTTP/1.1" 200 -
+2025-03-02 10:19:44,537 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /traffic_stats?t=1740890984533 HTTP/1.1" 200 -
+2025-03-02 10:19:44,753 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /dashboard_data?t=1740890984749 HTTP/1.1" 200 -
+2025-03-02 10:19:44,754 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:44] "GET /traffic_stats?t=1740890984749 HTTP/1.1" 200 -
+2025-03-02 10:19:45,485 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:45] "GET /dashboard_data?t=1740890985480 HTTP/1.1" 200 -
+2025-03-02 10:19:45,486 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:45] "GET /traffic_stats?t=1740890985481 HTTP/1.1" 200 -
+2025-03-02 10:19:55,481 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:55] "GET /dashboard_data?t=1740890995478 HTTP/1.1" 200 -
+2025-03-02 10:19:55,482 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:19:55] "GET /traffic_stats?t=1740890995478 HTTP/1.1" 200 -
+2025-03-02 10:20:06,019 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:06] "GET /dashboard_data?t=1740891006015 HTTP/1.1" 200 -
+2025-03-02 10:20:06,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:06] "GET /traffic_stats?t=1740891006015 HTTP/1.1" 200 -
+2025-03-02 10:20:16,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:16] "GET /dashboard_data?t=1740891016016 HTTP/1.1" 200 -
+2025-03-02 10:20:16,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:16] "GET /traffic_stats?t=1740891016016 HTTP/1.1" 200 -
+2025-03-02 10:20:26,012 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:26] "GET /dashboard_data?t=1740891026008 HTTP/1.1" 200 -
+2025-03-02 10:20:26,013 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:26] "GET /traffic_stats?t=1740891026008 HTTP/1.1" 200 -
+2025-03-02 10:20:36,042 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:36] "GET /dashboard_data?t=1740891036023 HTTP/1.1" 200 -
+2025-03-02 10:20:36,055 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:36] "GET /traffic_stats?t=1740891036024 HTTP/1.1" 200 -
+2025-03-02 10:20:46,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:46] "GET /dashboard_data?t=1740891046023 HTTP/1.1" 200 -
+2025-03-02 10:20:46,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:46] "GET /traffic_stats?t=1740891046023 HTTP/1.1" 200 -
+2025-03-02 10:20:56,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:56] "GET /dashboard_data?t=1740891056022 HTTP/1.1" 200 -
+2025-03-02 10:20:56,028 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:20:56] "GET /traffic_stats?t=1740891056023 HTTP/1.1" 200 -
+2025-03-02 10:22:04,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:22:04] "GET /dashboard_data?t=1740891124023 HTTP/1.1" 200 -
+2025-03-02 10:22:04,029 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:22:04] "GET /traffic_stats?t=1740891124023 HTTP/1.1" 200 -
+2025-03-02 10:23:04,014 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:04] "GET /dashboard_data?t=1740891184008 HTTP/1.1" 200 -
+2025-03-02 10:23:04,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:04] "GET /traffic_stats?t=1740891184009 HTTP/1.1" 200 -
+2025-03-02 10:23:44,134 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:44] "GET /dashboard_data?t=1740891224118 HTTP/1.1" 200 -
+2025-03-02 10:23:44,135 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:44] "GET /traffic_stats?t=1740891224118 HTTP/1.1" 200 -
+2025-03-02 10:23:45,486 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:45] "GET /dashboard_data?t=1740891225482 HTTP/1.1" 200 -
+2025-03-02 10:23:45,487 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:45] "GET /traffic_stats?t=1740891225482 HTTP/1.1" 200 -
+2025-03-02 10:23:55,486 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:55] "GET /dashboard_data?t=1740891235482 HTTP/1.1" 200 -
+2025-03-02 10:23:55,487 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:23:55] "GET /traffic_stats?t=1740891235482 HTTP/1.1" 200 -
+2025-03-02 10:24:05,484 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:05] "GET /dashboard_data?t=1740891245479 HTTP/1.1" 200 -
+2025-03-02 10:24:05,485 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:05] "GET /traffic_stats?t=1740891245479 HTTP/1.1" 200 -
+2025-03-02 10:24:16,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:16] "GET /dashboard_data?t=1740891256016 HTTP/1.1" 200 -
+2025-03-02 10:24:16,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:16] "GET /traffic_stats?t=1740891256017 HTTP/1.1" 200 -
+2025-03-02 10:24:26,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:26] "GET /dashboard_data?t=1740891266015 HTTP/1.1" 200 -
+2025-03-02 10:24:26,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:26] "GET /traffic_stats?t=1740891266015 HTTP/1.1" 200 -
+2025-03-02 10:24:36,018 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:36] "GET /dashboard_data?t=1740891276013 HTTP/1.1" 200 -
+2025-03-02 10:24:36,019 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:36] "GET /traffic_stats?t=1740891276013 HTTP/1.1" 200 -
+2025-03-02 10:24:46,016 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:46] "GET /dashboard_data?t=1740891286012 HTTP/1.1" 200 -
+2025-03-02 10:24:46,017 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:46] "GET /traffic_stats?t=1740891286012 HTTP/1.1" 200 -
+2025-03-02 10:24:56,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:56] "GET /dashboard_data?t=1740891296010 HTTP/1.1" 200 -
+2025-03-02 10:24:56,016 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:24:56] "GET /traffic_stats?t=1740891296010 HTTP/1.1" 200 -
+2025-03-02 10:25:06,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:25:06] "GET /dashboard_data?t=1740891306021 HTTP/1.1" 200 -
+2025-03-02 10:25:06,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:25:06] "GET /traffic_stats?t=1740891306021 HTTP/1.1" 200 -
+2025-03-02 10:26:04,014 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:26:04] "GET /dashboard_data?t=1740891364010 HTTP/1.1" 200 -
+2025-03-02 10:26:04,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:26:04] "GET /traffic_stats?t=1740891364010 HTTP/1.1" 200 -
+2025-03-02 10:27:04,023 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:27:04] "GET /dashboard_data?t=1740891424018 HTTP/1.1" 200 -
+2025-03-02 10:27:04,024 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:27:04] "GET /traffic_stats?t=1740891424019 HTTP/1.1" 200 -
+2025-03-02 10:28:04,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:28:04] "GET /dashboard_data?t=1740891484015 HTTP/1.1" 200 -
+2025-03-02 10:28:04,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:28:04] "GET /traffic_stats?t=1740891484015 HTTP/1.1" 200 -
+2025-03-02 10:29:04,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:29:04] "GET /dashboard_data?t=1740891544016 HTTP/1.1" 200 -
+2025-03-02 10:29:04,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:29:04] "GET /traffic_stats?t=1740891544016 HTTP/1.1" 200 -
+2025-03-02 10:30:04,014 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:04] "GET /dashboard_data?t=1740891604010 HTTP/1.1" 200 -
+2025-03-02 10:30:04,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:04] "GET /traffic_stats?t=1740891604010 HTTP/1.1" 200 -
+2025-03-02 10:30:22,785 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:22] "GET /dashboard_data?t=1740891622771 HTTP/1.1" 200 -
+2025-03-02 10:30:22,786 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:22] "GET /traffic_stats?t=1740891622771 HTTP/1.1" 200 -
+2025-03-02 10:30:26,012 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:26] "GET /dashboard_data?t=1740891626008 HTTP/1.1" 200 -
+2025-03-02 10:30:26,014 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:26] "GET /traffic_stats?t=1740891626008 HTTP/1.1" 200 -
+2025-03-02 10:30:36,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:36] "GET /dashboard_data?t=1740891636016 HTTP/1.1" 200 -
+2025-03-02 10:30:36,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:36] "GET /traffic_stats?t=1740891636016 HTTP/1.1" 200 -
+2025-03-02 10:30:46,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:46] "GET /dashboard_data?t=1740891646017 HTTP/1.1" 200 -
+2025-03-02 10:30:46,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:46] "GET /traffic_stats?t=1740891646017 HTTP/1.1" 200 -
+2025-03-02 10:30:56,024 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:56] "GET /dashboard_data?t=1740891656018 HTTP/1.1" 200 -
+2025-03-02 10:30:56,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:30:56] "GET /traffic_stats?t=1740891656018 HTTP/1.1" 200 -
+2025-03-02 10:31:06,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:31:06] "GET /dashboard_data?t=1740891666022 HTTP/1.1" 200 -
+2025-03-02 10:31:06,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:31:06] "GET /traffic_stats?t=1740891666022 HTTP/1.1" 200 -
+2025-03-02 10:31:16,014 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:31:16] "GET /dashboard_data?t=1740891676009 HTTP/1.1" 200 -
+2025-03-02 10:31:16,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:31:16] "GET /traffic_stats?t=1740891676009 HTTP/1.1" 200 -
+2025-03-02 10:32:04,017 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:04] "GET /dashboard_data?t=1740891724013 HTTP/1.1" 200 -
+2025-03-02 10:32:04,018 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:04] "GET /traffic_stats?t=1740891724013 HTTP/1.1" 200 -
+2025-03-02 10:32:13,487 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:13] "GET /dashboard_data?t=1740891733472 HTTP/1.1" 200 -
+2025-03-02 10:32:13,489 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:13] "GET /traffic_stats?t=1740891733472 HTTP/1.1" 200 -
+2025-03-02 10:32:16,237 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:16] "GET /dashboard_data?t=1740891736021 HTTP/1.1" 200 -
+2025-03-02 10:32:16,239 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:16] "GET /traffic_stats?t=1740891736021 HTTP/1.1" 200 -
+2025-03-02 10:32:26,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:26] "GET /dashboard_data?t=1740891746014 HTTP/1.1" 200 -
+2025-03-02 10:32:26,029 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:26] "GET /traffic_stats?t=1740891746014 HTTP/1.1" 200 -
+2025-03-02 10:32:36,015 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:36] "GET /dashboard_data?t=1740891756012 HTTP/1.1" 200 -
+2025-03-02 10:32:36,017 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:36] "GET /traffic_stats?t=1740891756012 HTTP/1.1" 200 -
+2025-03-02 10:32:46,026 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:46] "GET /dashboard_data?t=1740891766022 HTTP/1.1" 200 -
+2025-03-02 10:32:46,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:46] "GET /traffic_stats?t=1740891766022 HTTP/1.1" 200 -
+2025-03-02 10:32:56,028 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:56] "GET /dashboard_data?t=1740891776016 HTTP/1.1" 200 -
+2025-03-02 10:32:56,029 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:32:56] "GET /traffic_stats?t=1740891776016 HTTP/1.1" 200 -
+2025-03-02 10:33:06,024 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:33:06] "GET /dashboard_data?t=1740891786019 HTTP/1.1" 200 -
+2025-03-02 10:33:06,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:33:06] "GET /traffic_stats?t=1740891786019 HTTP/1.1" 200 -
+2025-03-02 10:34:04,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:34:04] "GET /dashboard_data?t=1740891844016 HTTP/1.1" 200 -
+2025-03-02 10:34:04,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:34:04] "GET /traffic_stats?t=1740891844016 HTTP/1.1" 200 -
+2025-03-02 10:35:04,021 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:35:04] "GET /dashboard_data?t=1740891904016 HTTP/1.1" 200 -
+2025-03-02 10:35:04,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:35:04] "GET /traffic_stats?t=1740891904016 HTTP/1.1" 200 -
+2025-03-02 10:36:04,028 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:36:04] "GET /dashboard_data?t=1740891964023 HTTP/1.1" 200 -
+2025-03-02 10:36:04,029 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:36:04] "GET /traffic_stats?t=1740891964023 HTTP/1.1" 200 -
+2025-03-02 10:37:04,020 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:37:04] "GET /dashboard_data?t=1740892024015 HTTP/1.1" 200 -
+2025-03-02 10:37:04,022 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:37:04] "GET /traffic_stats?t=1740892024015 HTTP/1.1" 200 -
+2025-03-02 10:38:04,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:38:04] "GET /dashboard_data?t=1740892084019 HTTP/1.1" 200 -
+2025-03-02 10:38:04,028 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:38:04] "GET /traffic_stats?t=1740892084019 HTTP/1.1" 200 -
+2025-03-02 10:39:04,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:39:04] "GET /dashboard_data?t=1740892144021 HTTP/1.1" 200 -
+2025-03-02 10:39:04,027 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:39:04] "GET /traffic_stats?t=1740892144021 HTTP/1.1" 200 -
+2025-03-02 10:40:04,018 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:40:04] "GET /dashboard_data?t=1740892204013 HTTP/1.1" 200 -
+2025-03-02 10:40:04,019 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:40:04] "GET /traffic_stats?t=1740892204013 HTTP/1.1" 200 -
+2025-03-02 10:41:04,023 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:41:04] "GET /dashboard_data?t=1740892264016 HTTP/1.1" 200 -
+2025-03-02 10:41:04,025 - werkzeug - INFO - 172.18.160.1 - - [02/Mar/2025 10:41:04] "GET /traffic_stats?t=1740892264017 HTTP/1.1" 200 -
+2025-03-02 10:41:12,828 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:41:12,828 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:41:12,829 - werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\PycharmProjects\\pythonProject1\\traffic_fl_server\\app.py', reloading
+2025-03-02 10:41:13,771 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
