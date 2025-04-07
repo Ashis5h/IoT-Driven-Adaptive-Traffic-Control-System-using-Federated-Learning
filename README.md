@@ -71,8 +71,8 @@ bash
 Copy
 Edit
 # For Python 3.x
-python -m http.server 8000
-Access the website at http://localhost:8000.
+python -m http.server 5000
+Access the website at http://localhost:5000.
 
 Make sure the website's JavaScript fetch URL matches the Flask server address.
 
